@@ -1,0 +1,335 @@
+Model Name,Ampere,capacity
+" Samsung 25R (original, blue)"
+ 20A
+ 2500mAh
+ 3.6V
+ 2.5V
+ 4.20 +/- 0.05V
+ 1.25A
+ 66.00 mm
+ 18.50 mm
+ 45.0 g
+" UR18650-NSX
+"
+ Panasonic-Sanyo
+ Japan
+" Lithium, nickel, cobalt, aluminium oxide and silicon graphite"
+ 20A
+ 2500 mAh
+ 2600 mAh
+ 3.6 V
+ 2.5 V
+ 4.20 +/- 0.05 V
+ 1.75 A (180 minutes)
+ 65.30 mm
+ 18.50 mm
+ 45.8 g
+ INR18650HG2
+ LG Chemical
+ South Korea
+ INR
+ 20A
+ 3000 mAh
+ 3.6 V
+ 2.5 V
+ 4.20 +/- 0.05 V
+ 1500 mA
+ 20A
+" 95A < 0.5 sec, 65A < 1 sec, 40A < 5 sec, 30A < 6 sec"
+ 2500 mAh
+ 3.6 V
+ 2.5 V
+ 4.20 +/- 0.05 V
+ 1.25 A
+ 65.85 mm
+ 18.33 mm
+ 45.0 g
+" NCR18650GA
+"
+ Panasonic-Sanyo
+ Japan
+ NCR
+ 10A
+ 3450 mAh
+ 3350 mAh
+ 3.6 V
+ 4.20
+ 1.475 A
+ LG18650MJ1
+ LG Chemical
+ South Korea
+ INR
+ 10A
+ 3500 mAh
+ 3.6 V
+ 2.5 V
+ 4.20 +/- 0.05 V
+ 1.25 A
+ 49.0 g
+ LGDAHB21865
+ LG Chemical
+ South Korea
+ NMC
+ 30A*
+ 1500 mAh
+ 3.6 V
+ 2.5 V
+ 4.20 +/- 0.05 V
+ 750 mA
+ LG18650HB4
+ LG Chemical
+ South Korea
+ NCM
+ 30A
+ 1500 mAh
+ 3.6 V
+ 4.20 +/- 0.05 V
+ LG18650HB6
+ LG Chemical
+ South Korea
+ NCM
+ 30A
+ 1500 mAh
+ 3.6 V
+ 2.5 V
+ 4.20 +/- 0.05 V
+ 1.25 A
+ ICR18650HE2
+ LG Chemical
+ South Korea
+ ICR
+ 20A
+ 2500 mAh
+ 3.6 V
+ 2.5 V
+ 4.20 +/- 0.05 V
+ 1.25 A
+ 65.20 mm
+ 18.50 mm
+ 48.0 g
+ ICR18650HE4
+ LG Chemical
+ South Korea
+ ICR
+ 20A
+ 2500 mAh
+ 3.6 V
+ 2.5 V
+ 4.20 +/- 0.05 V
+ 1.25 A
+ 65.20 mm
+ 18.50 mm
+ 47.0 g
+ ICR18650HD2
+ LG Chemical
+ South Korea
+ ICR
+ 25A
+ 2000 mAh
+ 3.6 V
+ 2.5 V
+ 4.20 +/- 0.05 V
+ 1.25 A
+ 65.20 mm
+ 18.50 mm
+ 48.0 g
+ ICR18650HD2C
+ LG Chemical
+ South Korea
+ ICR
+ 20A
+ 2100 mAh
+ INR18650MH1 
+ LG Chemical
+ South Korea
+ INR/NCA
+ 10A
+ 3200 mAh
+ 3.6 V
+ 2.5 V
+ 4.20 +/- 0.05 V
+ 1550 mA
+ 3100 mA
+ ICR18650E1
+ LG Chemical
+ South Korea
+ ICR
+ 4.65
+ 3200 mAh
+ 3.6 V
+ 2.5 V
+ 4.20 +/- 0.05 V
+ 1.25 A
+" NCR18650B
+"
+ Flat-top
+ No
+ Panasonic
+ Japan
+ NCR
+ 4.875A
+ 3200 mAh
+ 3350 mAh
+ 3.6 V
+ 2.5 V
+ 4.20 +/- 0.03 V
+ 1.625 A
+" NCR18650B
+"
+ Button-top
+ No
+ Panasonic
+ Japan
+ NCR
+ 4.875A
+ 3200 mAh
+ 3350 mAh
+ 3.6 V
+ 2.5 V
+ 4.20 +/- 0.03 V
+ 1.625 A
+" NCR18650B
+"
+ Button-top
+ Yes
+ Panasonic
+ Japan
+ NCR
+ 4.875A
+ 3200 mAh
+ 3350 mAh
+ 3.6 V
+ 2.5 V
+ 4.20 +/- 0.03 V
+ 1.625 A
+ NCR18650BE
+ Panasonic
+ Japan
+ NCR
+ 3.63A
+ 3200 mAh
+ 3.6 V
+ 2.5 V
+ 4.20 +/- 0.05 V
+ 1.25 A
+ NCR18650BF
+ Panasonic
+ Japan
+ NCR
+ 3.63A
+ 3200 mAh
+ 3.6 V
+ 2.5 V
+ 4.20 +/- 0.05 V
+ NCR18650BD
+ Panasonic
+ Japan
+ NCR
+ 10A
+ 3200 mAh
+ 3.6 V
+ 2.5 V
+ 4.20 +/- 0.05 V
+ 1.25 A
+ NCR18650PF
+ Panasonic
+ Japan
+ NCR
+ 10A
+ 2900 mAh
+ 3.6 V
+ NCR18650A
+ Panasonic
+ Japan
+ NCR
+ 6.2
+ 3100 mAh
+ 3.6 V
+ 2.5 V
+ 4.20 +/- 0.05 V
+ 1.25 A
+ 65.20 mm
+ 18.60 mm
+ INR18650-32A
+ Samsung
+ South Korea
+ ICR
+ 6.4A
+ 3200 mAh
+ 3.6 V
+ 2.5 V
+ 4.20 +/- 0.05 V
+ 1.25 A
+ 20A
+" 95A < 0.5 sec, 65A < 1 sec, 40A < 5 sec, 30A < 6 sec"
+ 2500 mAh
+ 3.6 V
+ 2.5 V
+ 4.20 +/- 0.05 V
+ 1.25 A
+ 65.85 mm
+ 18.33 mm
+ 45.0 g
+ 20A
+" 95A < 0.5 sec, 65A < 1 sec, 40A < 5 sec, 30A < 6 sec"
+ 2500 mAh
+ 3.6 V
+ 2.5 V
+ 4.20 +/- 0.05 V
+ 1.25 A
+ 65.85 mm
+ 18.33 mm
+ 45.0 g
+ INR18650-15Q
+ Samsung
+ South Korea
+ INR
+ 18A
+ 1500 mAh
+ 3.6 V
+ 2.5 V
+ 4.20 +/- 0.05 V
+ 1.25 A
+ MNKE
+ PRC
+ 3500 mAh
+ 26650
+ US18650VTC5
+ Sony
+ NMC
+ 20A
+ 2500 mAh
+ 3.6 V
+ 2.5 V
+ 4.20 +/- 0.05 V
+ 1.25 A
+ 65.20 mm
+ 18.35 mm
+ 44.30 g
+" US18650VTC4
+Manufacturer"
+ US18650VTC4
+ Sony
+ Japan or China
+ NMC
+ 30A
+ 2000 mAh
+ 3.6 V
+ US18650V3
+ Sony
+ Japan
+ 10A
+ 2250mAh
+ 3.6 V
+ US18650VTC5A
+ Sony
+ Japan
+ 35A
+ 2600mAh
+ 3.6 V
+ US18650VTC6
+ Sony
+ Japan
+ 20A
+ 3000mAh
+ 3.6 V
